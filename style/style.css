@@ -3,3 +3,142 @@
  padding: 0;
  box-sizing: border-box;
 }
+body{
+    font-family: 'Merriweather', serif;
+}
+
+/* header area ---------------------------*/
+.header{
+    margin-top: 50px;
+}
+.banner{
+    background-image: url('../images/Banner Image.png');
+    width: 1320px;
+    height: 600px;
+    padding: 16px;
+    margin: 0 auto;
+}
+
+.banner-content{
+    padding:177px 344px;
+}
+.banner-title{
+    color: #FFFFFF;
+text-align: center;
+font-size: 32px;
+font-weight: 400;
+
+
+}
+.banner-celebration{
+    color: #FFF;
+
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+}
+
+/* main section --------------------*/
+.section1{
+    margin: 0 auto;
+    width: 50%;
+    display: block;
+   
+}
+
+.digit{
+    color: #F00;
+    text-align: center;
+    font-family: Inter,sans-serif;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-top: 120px;
+}
+
+.our{
+    color: #F00;
+    text-align: center;
+    font-family: Inter,sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom:10px;
+}
+
+.cata{
+    color: #070211;
+    text-align: center;
+    font-family: san-serif ;
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 48px;
+}
+.img{
+    width: 800px;
+    height: 500px;
+    padding-bottom: 120px;
+
+}
+/* section2 area--------------------- */
+.section2{
+    margin: 120px 0;
+}
+.img2{
+    background-image: url(../images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img2-left{
+    width: 697px;
+    margin: 126px auto ;
+}
+
+.welcome{
+    width: 642px;
+    color: #FFF;
+    
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-bottom: 25px;
+}
+
+.dolor{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 50px;
+
+}
+
+.join{
+    color: #FFF;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.join:hover{
+    color: #F00;
+}
+
+
+.img2-right{
+    
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    margin: 70px auto;
+
+}
