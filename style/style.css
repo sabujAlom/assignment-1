@@ -283,7 +283,7 @@ font-weight: 900;
     height: 229px;
     border-radius: 16px 0px 16px 16px;
     background: #F00;
-    padding: 10px 140px;
+    margin: 0px 150px;
     
 
 
@@ -292,13 +292,17 @@ font-weight: 900;
     width: 429px;
     height: 433px;
     border-radius: 16px 16px 0px 0px; 
+
+    
 }
 .gift-box{
-
+position: absolute;
+margin-top: 10px;
 }
 .discount{
 
 }
+
 
 /* .section6 area------------------------------- */
 .section6-text{
@@ -346,9 +350,9 @@ font-weight: 900;
     padding: 40px 212px;
 }
 .mail-pic{
-width: 150px;
-height: 150px;
-margin-bottom: 40px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 40px;
 }
 .Subscribe{
     color: #070211;
@@ -410,11 +414,11 @@ margin-bottom: 40px;
 .footer-section1-left{
     color: #FFF;
 
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
 }
 .footer-section1-right{}
 
@@ -458,4 +462,3 @@ line-height: 40px;
     background-color: #070211 ;
     color: white;
     }
-    
